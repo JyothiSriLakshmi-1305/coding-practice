@@ -1,4 +1,4 @@
-# coding-practice
+
 # Coding Practice
 
 This repository contains my Java coding practice solutions from CodeChef, LeetCode, and daily coding challenges.
